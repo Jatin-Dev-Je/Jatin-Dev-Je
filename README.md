@@ -112,11 +112,15 @@ JWT with refresh token rotation, Cloudinary asset pipeline, role-based access ac
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Jatin-Dev-Je&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Jatin-Dev-Je&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Jatin's GitHub Stats" />
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jatin-Dev-Je&theme=tokyonight&hide_border=true)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-Dev-Je&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatin-Dev-Je&theme=tokyonight&hide_border=true" alt="Jatin's Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-Dev-Je&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
